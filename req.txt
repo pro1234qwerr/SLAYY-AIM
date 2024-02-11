@@ -1,4 +1,3 @@
-numpy
 pywin32
 opencv-python
 keyboard
@@ -8,12 +7,5 @@ pyautogui
 pyscreeze
 pillow
 colorama
-requests
-keyauth
-colorama
-opencv-python
-keyboard
-pyautogui
-pyfiglet
-requests
 numpy
+keyauth
