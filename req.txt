@@ -9,3 +9,11 @@ pyscreeze
 pillow
 colorama
 requests
+keyauth
+colorama
+opencv-python
+keyboard
+pyautogui
+pyfiglet
+requests
+numpy
